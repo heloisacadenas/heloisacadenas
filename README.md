@@ -1,6 +1,6 @@
-# Olá! Meu nome é Heloisa 🧋🎧
+# Olá! Eu sou a Heloisa! 🧋🎧
 
-Sou técnica em Informática para Internet e atualmente estudante universitária de Análise e Desenvolvimento de Sistemas! Descobri minha paixão pela criação de websites ao cursar o ensino médio e hoje venho estudando linguagens de programação para conseguir minha primeira experiência na área de desenvolvimento! Gosto muito de integrar design e tecnologia para ajudar da resolução de problemas! Estou sempre aberta à aprender coisas novas ;)
+Sou formada como técnica em Informática para Internet e estudante universitária de Análise e Desenvolvimento de Sistemas. Sempre fui apaixonada por design e tecnologia, mas foi ao explorar o desenvolvimento web e mobile que descobri minha verdadeira paixão pela área de tecnologia. Desde então, tenho aprofundado meus estudos cada vez mais em linguagens de programação que me ajudarão na minha jornada como desenvolvedora de software! Busco unir criatividade e tecnologia para criar soluções inovadoras e intuitivas para resolver os problemas dos usuários! Estou sempre aberta à aprender coisas novas ;)
 
 ## 💻Redes sociais:
 - [Instagram](https://www.instagram.com/heloiisz/)
