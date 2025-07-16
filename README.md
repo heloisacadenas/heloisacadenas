@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Meu nome é Heloisa 🧋🎧
 
-<!--
-**heloisacadenas/heloisacadenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou técnica em Informática para Internet e atualmente estudante universitária de Análise e Desenvolvimento de Sistemas! Descobri minha paixão pela criação de websites ao cursar o ensino médio e hoje venho estudando linguagens de programação para conseguir minha primeira experiência na área de desenvolvimento! Gosto muito de integrar design e tecnologia para ajudar da resolução de problemas! Estou sempre aberta à aprender coisas novas ;)
 
-Here are some ideas to get you started:
+## 💻Redes sociais:
+- [Instagram](https://www.instagram.com/heloiisz/)
+- [LinkedIn](https://www.linkedin.com/in/heloisa-cadenas-maciel/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📓Aprendizados:
+- Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
+- Graduação em Análise e Desenvolvimento de Sistemas - Fatec São Caetano do Sul 2025-2027
+- Curso de extensão Meninas Programadoras: Introdução à Programação em Python - Universidade de São Paulo Julho/2025
+- Inglês B2 Intermediário-avançado - Certificado TOEIC – Pontuação: 695
