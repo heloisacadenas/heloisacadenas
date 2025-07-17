@@ -31,4 +31,4 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 [![Instagram](https://img.shields.io/badge/@heloiisz-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/heloiisz/)
 
 ## 📩Contato:
-- [Email](mailto:heloisacadenas36@gmail.com)
+[![Email](https://img.shields.io/badge/heloisacadenas36@gmail.com-fff?style=flat&logo=e-mail&logoColor=FFFFFF&labelColor=8b7bdf)](mailto:heloisacadenas36@gmail.com)
