@@ -17,7 +17,7 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 - Conhecimentos em lógica de programação e arquitetura de computadores.
 - Habilidades interpessoais: comunicação oral e escrita, capacidade de organização, trabalho em equipe e foco em resolução de problemas.
 
-## 💻Redes sociais:
+## 💻Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/in/heloisacadenasmaciel-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/heloisa-cadenas-maciel/)
 [![Instagram](https://img.shields.io/badge/@heloiisz-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/heloiisz/)
 
