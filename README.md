@@ -18,8 +18,8 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 - Habilidades interpessoais: comunicação oral e escrita, capacidade de organização, trabalho em equipe e foco em resolução de problemas.
 
 ## 💻Redes sociais:
-- [Instagram](https://www.instagram.com/heloiisz/)
-- [LinkedIn](https://www.linkedin.com/in/heloisa-cadenas-maciel/)
+[![LinkedIn](https://img.shields.io/badge/in/elidiana-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/heloisa-cadenas-maciel/)
+[![Instagram](https://img.shields.io/badge/@elicosmaker-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/heloiisz/)
 
 ## 📩Contato:
 - [Email](mailto:heloisacadenas36@gmail.com)
