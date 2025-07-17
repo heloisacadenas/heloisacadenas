@@ -9,6 +9,14 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 - Inglês B2 Intermediário-avançado - Certificado TOEIC – Pontuação: 695
 
 ## ✒️Habilidades e ferramentas:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Helo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Helo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Helo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Helo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Helo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 -	Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(básico)
 - Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm, Portugol Studio.
 - Design e edição de vídeos: Adobe Photoshop (básico), Canva, Sony Vegas, Wondershare Filmora.
