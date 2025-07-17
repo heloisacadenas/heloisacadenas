@@ -9,7 +9,7 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 - Inglês B2 Intermediário-avançado - Certificado TOEIC – Pontuação: 695
 
 ## ✒️Habilidades e ferramentas:
--	Linguagens de programação (básico): JavaScript, PHP, SQL, VBA (excel, access), HTML, CSS.
+-	Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(básico)
 - Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm, Portugol Studio.
 - Design e edição de vídeos: Adobe Photoshop (básico), Canva, Sony Vegas, Wondershare Filmora.
 - Banco de dados: MySQL (Básico)
