@@ -17,7 +17,8 @@ Sou formada como técnica em Informática para Internet e estudante universitár
    <img align="center" alt="Helo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Helo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
--	Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(básico)
+
+- Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(básico)
 - Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm, Portugol Studio.
 - Design e edição de vídeos: Adobe Photoshop (básico), Canva, Sony Vegas, Wondershare Filmora.
 - Banco de dados: MySQL (Básico)
