@@ -2,6 +2,8 @@
 
 Sou formada como técnica em Informática para Internet e estudante universitária de Análise e Desenvolvimento de Sistemas. Sempre fui apaixonada por design e tecnologia, mas foi ao explorar o desenvolvimento web e mobile que descobri minha verdadeira paixão pela área de TI. Desde então, tenho aprofundado meus estudos cada vez mais em linguagens de programação que me ajudarão na minha jornada como desenvolvedora de software! Busco unir criatividade e tecnologia para criar soluções inovadoras e intuitivas para resolver os problemas dos usuários! Estou sempre aberta à aprender coisas novas ;)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## 📓Aprendizados:
 - Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
 - Graduação em Análise e Desenvolvimento de Sistemas - Fatec São Caetano do Sul 2025-2027
@@ -26,9 +28,12 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 - Conhecimentos em lógica de programação e arquitetura de computadores.
 - Habilidades interpessoais: comunicação oral e escrita, capacidade de organização, trabalho em equipe e foco em resolução de problemas.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacadenas&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF)
+
 ## 💻Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/in/heloisacadenasmaciel-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/heloisa-cadenas-maciel/)
-[![Instagram](https://img.shields.io/badge/@heloiisz-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/heloiisz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-cadenas-maciel/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heloiisz/)
 
 ## 📩Contato:
-[![Email](https://img.shields.io/badge/heloisacadenas36@gmail.com-fff?style=flat&logo=e-mail&logoColor=FFFFFF&labelColor=8b7bdf)](mailto:heloisacadenas36@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:heloisacadenas36@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+94452-2028)
