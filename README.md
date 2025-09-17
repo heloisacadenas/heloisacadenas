@@ -4,11 +4,9 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## 📓Aprendizados:
+## 📓Formação Acadêmica:
 - Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
 - Graduação em Análise e Desenvolvimento de Sistemas - Fatec São Caetano do Sul 2025-2027
-- Curso de extensão Meninas Programadoras: Introdução à Programação em Python - Universidade de São Paulo Julho/2025
-- Inglês B2 Intermediário-avançado - Certificado TOEIC – Pontuação: 695
 
 ## ✒️Habilidades e ferramentas:
 <div style="display: inline_block"><br>
@@ -21,7 +19,7 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 </div>
 
 - Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(básico)
-- Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm, Portugol Studio.
+- Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm.
 - Design e edição de vídeos: Adobe Photoshop (básico), Canva, Sony Vegas, Wondershare Filmora.
 - Banco de dados: MySQL (Básico)
 - Outros: Pacote Office básico (Excel, Word, PowerPoint e Outlook).
