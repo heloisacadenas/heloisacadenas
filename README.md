@@ -18,12 +18,12 @@ Sou formada como técnica em Informática para Internet e estudante universitár
   <img align="center" alt="Helo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-- Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(básico)
-- Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm.
-- Design e edição de vídeos: Adobe Photoshop (básico), Canva, Sony Vegas, Wondershare Filmora.
-- Banco de dados: MySQL (Básico)
-- Outros: Pacote Office básico (Excel, Word, PowerPoint e Outlook).
-- Conhecimentos em lógica de programação e arquitetura de computadores.
+- Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(intermediário), VBS, .NET.
+- Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm, Acces, Visual Studio 2022.
+- Design e edição de vídeos: Adobe Photoshop, Figma, Canva, Sony Vegas, Wondershare Filmora.
+- Banco de dados: MySQL, PHP My Admin.
+- Outros: Pacote Office(Excel, Word, PowerPoint e Outlook).
+- Conhecimentos em lógica de programação, arquitetura de computadores e experiência do usuário.
 - Habilidades interpessoais: comunicação oral e escrita, capacidade de organização, trabalho em equipe e foco em resolução de problemas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacadenas&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF)
