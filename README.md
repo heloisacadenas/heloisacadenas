@@ -6,7 +6,7 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 
 ## 📓Formação Acadêmica:
 - Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
-- Bacharelado em Engenharia de Software - Uninter
+- Bacharelado em Engenharia de Software - Uninter 2026-2029
 
 ## ✒️Habilidades e ferramentas:
 <div style="display: inline_block"><br>
