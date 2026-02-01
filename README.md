@@ -1,6 +1,6 @@
 # Olá! Eu sou a Heloisa! 🧋🎧
 
-Sou formada como técnica em Informática para Internet e estudante universitária de Análise e Desenvolvimento de Sistemas. Sempre fui apaixonada por design e tecnologia, mas foi ao explorar o desenvolvimento web e mobile que descobri minha verdadeira paixão pela área de TI. Desde então, tenho aprofundado meus estudos cada vez mais em linguagens de programação que me ajudarão na minha jornada como desenvolvedora de software! Busco unir criatividade e tecnologia para criar soluções inovadoras e intuitivas para resolver os problemas dos usuários! Estou sempre aberta à aprender coisas novas ;)
+Sou formada como técnica em Informática para Internet e estudante universitária de Engenharia de Software. Sempre fui apaixonada por design e tecnologia, mas foi ao explorar o desenvolvimento web e mobile que descobri minha verdadeira paixão pela área de TI. Desde então, tenho aprofundado meus estudos cada vez mais em linguagens de programação que me ajudarão na minha jornada como desenvolvedora de software! Busco unir criatividade e tecnologia para criar soluções inovadoras e intuitivas para resolver os problemas dos usuários! Estou sempre aberta à aprender coisas novas ;)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
