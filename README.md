@@ -6,7 +6,7 @@ Sou formada como técnica em Informática para Internet e estudante universitár
 
 ## 📓Formação Acadêmica:
 - Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
-- Graduação em Análise e Desenvolvimento de Sistemas - Fatec São Caetano do Sul 2025-2027
+- Bacharelado em Engenharia de Software - Uninter
 
 ## ✒️Habilidades e ferramentas:
 <div style="display: inline_block"><br>
