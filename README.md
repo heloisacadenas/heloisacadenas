@@ -1,12 +1,13 @@
-# Olá! Eu sou a Heloisa! 🧋🎧
+# Olá! Eu sou a Heloisa! 🎧
 
-Sou formada como técnica em Informática para Internet e estudante universitária de Engenharia de Software. Sempre fui apaixonada por design e tecnologia, mas foi ao explorar o desenvolvimento web e mobile que descobri minha verdadeira paixão pela área de TI. Desde então, tenho aprofundado meus estudos cada vez mais em linguagens de programação que me ajudarão na minha jornada como desenvolvedora de software! Busco unir criatividade e tecnologia para criar soluções inovadoras e intuitivas para resolver os problemas dos usuários! Estou sempre aberta à aprender coisas novas ;)
+Sou estudante de Engenharia de Software e formada como técnica em Informática para Internet, com foco em desenvolvimento web e mobile. Atualmente busco oportunidades de estágio com foco em desenvolvimento de sistemas, análise de dados e infraestrutura para que eu possa colocar em prática meus conhecimentos. Venho me aprofundando por meio de cursos e projetos acadêmicos e pessoais.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 📓Formação Acadêmica:
-- Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
 - Bacharelado em Engenharia de Software - Uninter 2026-2029
+- Técnico em Informática para Internet - Etec Lauro Gomes 2022-2024
+
 
 ## ✒️Habilidades e ferramentas:
 <div style="display: inline_block"><br>
@@ -18,12 +19,12 @@ Sou formada como técnica em Informática para Internet e estudante universitár
   <img align="center" alt="Helo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-- Linguagens de programação: JavaScript(básico), PHP(básico), SQL, VBA (excel, access), HTML, CSS, Python(intermediário), VBS, .NET.
-- Experiência com as ferramentas de programação: Visual Studio Code, Sublime Text, Android Studio, Visualg, PyCharm, Acces, Visual Studio 2022.
-- Design e edição de vídeos: Adobe Photoshop, Figma, Canva, Sony Vegas, Wondershare Filmora.
-- Banco de dados: MySQL, PHP My Admin.
-- Outros: Pacote Office(Excel, Word, PowerPoint e Outlook).
-- Conhecimentos em lógica de programação, arquitetura de computadores e experiência do usuário.
+- Back-end: Python, PHP, SQL, VBScript, .NET
+- Front-end: HTML, CSS, JavaScript, Bootstrap
+- Banco de dados: MySQL
+- Ferramentas: Git, Github, VS Code, Android Studio, PyCharm, Excel (VBA)
+- UX/UI Design: Figma, Adobe Photoshop, Canva
+- Outros: Documentação técnica e Pacote Office.
 - Habilidades interpessoais: comunicação oral e escrita, capacidade de organização, trabalho em equipe e foco em resolução de problemas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacadenas&layout=compact&bg_color=000&title_color=E94D5F&text_color=FFF)
