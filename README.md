@@ -12,10 +12,6 @@ Atualmente estou em busca de uma oportunidade de estágio em desenvolvimento de 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
----
-
 # 🎓 Formação Acadêmica
 
 - Bacharelado em Engenharia de Software — Uninter (2026 - 2029)
