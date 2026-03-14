@@ -1,12 +1,10 @@
-# Olá! Eu sou a Heloisa 👩‍💻
+# Olá! Eu sou a Heloisa :)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E94D5F&size=24&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 Sou estudante de Engenharia de Software e técnica em Informática para Internet. Tenho interesse em desenvolvimento de software, especialmente aplicações web e sistemas backend.
 
-Aqui no GitHub compartilho projetos acadêmicos e pessoais envolvendo desenvolvimento full stack, banco de dados e modelagem de sistemas.
-
-Atualmente estou em busca de uma oportunidade de estágio em desenvolvimento de software para aplicar e expandir meus conhecimentos em engenharia de software.
+Aqui no GitHub compartilho projetos acadêmicos e pessoais envolvendo desenvolvimento full stack.
 
 📍 São Bernardo do Campo - SP | Brasil
 
