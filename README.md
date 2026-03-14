@@ -20,36 +20,6 @@ Atualmente estou em busca de uma oportunidade de estágio em desenvolvimento de 
 
 ---
 
-# 🚀 Projetos em destaque
-
-### 📌 Sistema Gerenciador de RH
-Sistema desenvolvido como projeto acadêmico para gestão de funcionários com funcionalidades CRUD.
-
-**Tecnologias utilizadas:**
-VBScript, SQL, MySQL
-
-Principais atividades:
-- Desenvolvimento das funcionalidades de cadastro e gestão de funcionários
-- Modelagem de requisitos e elaboração de diagramas UML
-- Integração com banco de dados MySQL
-- Documentação técnica do sistema
-
----
-
-### 📌 Website Carreira em Foco
-Aplicação web desenvolvida como trabalho de conclusão do curso técnico.
-
-**Tecnologias utilizadas:**
-HTML, CSS, JavaScript, PHP, SQL e Java
-
-Principais atividades:
-- Desenvolvimento full stack da aplicação
-- Implementação de funcionalidades integradas ao banco de dados
-- Organização das tarefas em equipe
-- Documentação técnica do processo de desenvolvimento
-
----
-
 ## 🛠️ Linguagens
 
 <div style="display: inline_block">
@@ -62,44 +32,6 @@ Principais atividades:
 <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 
 </div>
-
----
-
-## Tecnologias
-
-**Back-end**
-- Python
-- PHP
-- SQL
-- VBScript
-- .NET
-
-**Front-end**
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-**Banco de dados**
-- MySQL
-
-**Ferramentas**
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- PyCharm
-- Excel (VBA)
-
-**UX/UI Design**
-- Figma
-- Adobe Photoshop
-- Canva
-
-**Engenharia de Software**
-- Modelagem de requisitos
-- Diagramas UML
-- Documentação técnica
 
 ---
 
