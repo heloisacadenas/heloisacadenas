@@ -4,8 +4,6 @@
 
 Sou estudante de Engenharia de Software e técnica em Informática para Internet. Tenho interesse em desenvolvimento de software, especialmente aplicações web e sistemas backend.
 
-Aqui no GitHub compartilho projetos acadêmicos e pessoais envolvendo desenvolvimento full stack.
-
 📍 São Bernardo do Campo - SP | Brasil
 
 ---
