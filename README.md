@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E94D5F&size=24&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-Sou estudante de Engenharia de Software e técnica em Informática para Internet. Tenho interesse em desenvolvimento de software, especialmente aplicações web e sistemas backend.
+Sou estudante de Engenharia de Software e técnica em Informática para Internet. Tenho interesse em desenvolvimento de software e engenharia de dados, com foco em aplicações web, sistemas backend e integração e manipulação de dados em banco de dados.
 
 📍 São Bernardo do Campo - SP | Brasil
 
