@@ -1,6 +1,3 @@
-
-<img width="1500" height="500" alt="github_banner" src="https://github.com/user-attachments/assets/8ae73fa2-11f0-4c55-85f2-e2990ed95642" />
-
 Sou estudante de Engenharia de Software e técnica em Informática para Internet. Tenho interesse em desenvolvimento de software e engenharia de dados, com foco em aplicações web, sistemas backend e integração e manipulação de dados em banco de dados.
 
 📍 São Bernardo do Campo - SP | Brasil
