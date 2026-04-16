@@ -1,42 +1,78 @@
-Sou estudante de Engenharia de Software e técnica em Informática para Internet. Tenho interesse em desenvolvimento de software e engenharia de dados, com foco em aplicações web, sistemas backend e integração e manipulação de dados em banco de dados.
+# Software Engineering Portfolio
 
-📍 São Bernardo do Campo - SP | Brasil
-
----
-
-## Formação Acadêmica
-
-- Bacharelado em Engenharia de Software — Uninter (2026 - 2029)
-- Análise e Desenvolvimento de Sistemas — Fatec São Caetano do Sul (2025)
-- Técnico em Informática para Internet — Etec Lauro Gomes (2022 - 2024)
+Hi! Welcome to my GitHub :)  
+I’m a Software Engineering student with a technical background in Web Development, focused on building practical projects and continuously improving my skills in software engineering, backend development, and full-stack applications.
 
 ---
 
-## Linguagens
+## About Me
 
-<div style="display: inline_block">
+I am currently a Software Engineering student and have a technical degree in Web Development.  
+My focus is on building scalable, clean, and efficient software solutions using modern web technologies.
 
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-
-</div>
+I am particularly interested in:
+- Backend Development
+- Full Stack Development
+- Frontend Development
+- Software Architecture
+- Systems and Data-driven applications
+- Agile development environments
 
 ---
 
-## Conecte-se comigo
+## Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/heloisacadenas/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:heloisacadenas36@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/heloisacadenas" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- UX/UI Design
+
+### Backend & Databases
+- PHP
+- SQL
+- Basic API concepts
+
+### Tools & Practices
+- Git & GitHub
+- Version Control
+- Agile Methodologies (Scrum / Kanban)
+- UML & Requirements Analysis
+
+---
+
+## Goals
+
+- Improve backend development skills (Python / Java)
+- Learn cloud fundamentals (GCP, distributed systems)
+- Build more complex full-stack applications
+- Strengthen software architecture knowledge
+- Gain experience in professional engineering teams
+
+---
+
+## Languages
+
+- Portuguese (Native)
+- English (B2 – TOEIC Certified)
+- Spanish (Basic)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [https://www.linkedin.com/in/heloisacadenas/]
+- Email: [heloisacadenas36@gmail.com]
+- Behance: [https://www.behance.net/heloisacadenas]
+
+---
+
+⭐ Thank you for visiting my profile!
+I’m always open to learning, collaboration, and new opportunities in software engineering.
