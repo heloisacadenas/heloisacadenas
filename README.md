@@ -3,7 +3,7 @@
 Hi! Welcome to my GitHub :)  
 I’m a Software Engineering student with a technical background in Web Development, focused on building practical projects and continuously improving my skills in software engineering, backend development, and full-stack applications.
 
-![Descrição do GIF](https://i.pinimg.com/1200x/a6/0e/f4/a60ef4d354bc4d71e33f59dcad04fc32.jpg)
+![Descrição do GIF](https://i.pinimg.com/1200x/ff/33/0f/ff330f7af1ca2600d7b5508150d10c89.jpg)
 ---
 
 ## About Me
