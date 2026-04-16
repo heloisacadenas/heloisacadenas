@@ -50,16 +50,6 @@ I am particularly interested in:
 
 ---
 
-## Goals
-
-- Improve backend development skills (Python / Java)
-- Learn cloud fundamentals (GCP, distributed systems)
-- Build more complex full-stack applications
-- Strengthen software architecture knowledge
-- Gain experience in professional engineering teams
-
----
-
 ## Languages
 
 - Portuguese (Native)
