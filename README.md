@@ -1,7 +1,7 @@
 # Software Engineering Portfolio
 
 Hi! Welcome to my GitHub :)  
-I’m a Software Engineering student with a technical background in Web Development, focused on building practical projects and continuously improving my skills in software engineering, Artifical Inteligence, backend development, and full-stack applications.
+I’m a Software Engineering student with a technical background in Web Development, focused on building practical projects and continuously improving my skills in software engineering, Artifical Intelligence, backend development, and full-stack applications.
 
 ![Descrição do GIF](https://i.pinimg.com/736x/1b/bf/77/1bbf77874a26786a2417b77d36429866.jpg)
 ---
