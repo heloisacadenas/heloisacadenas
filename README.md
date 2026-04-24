@@ -1,15 +1,13 @@
-# Software Engineering Portfolio
+## 🎧 Software Engineering Portfolio
 
-Hi! Welcome to my GitHub :)  
-I’m a Software Engineering student with a technical background in Web Development, focused on building practical projects and continuously improving my skills in software engineering, Artifical Intelligence, backend development, and full-stack applications.
+Hi! Welcome to my GitHub :)
+
+I’m Heloisa, a Software Engineering student with a technical background in Web Development, focused on building practical projects and continuously improving my skills in software engineering, Artifical Intelligence, backend development, and full-stack applications.
 
 ![Descrição do GIF](https://i.pinimg.com/736x/1b/bf/77/1bbf77874a26786a2417b77d36429866.jpg)
 ---
 
 ## About Me
-
-I am currently a Software Engineering student and have a technical degree in Web Development.  
-My focus is on building scalable, clean, and efficient software solutions using modern web technologies.
 
 I am particularly interested in:
 - Backend Development
@@ -18,34 +16,28 @@ I am particularly interested in:
 - Software Architecture
 - Systems and Data-driven applications
 - Agile development environments
-
 ---
 
-## Tech Stack
+![Heloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=dark&show_icons=true)
 
-### Languages
-- Python
-- Java
-- JavaScript
-- SQL
+## 🎓 Education
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Responsive Web Design
-- UX/UI Design
+- Bachelor's degree in Software Engineering - Uninter (2026-2029)
+- Technical degree in Informatics for Internet - Etec Lauro Gomes (2022-2024)
 
-### Backend & Databases
-- PHP
-- SQL
-- Basic API concepts
+## Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,py,java,net,git,figma,ps" />
+  </a>
+</p>
 
 ### Tools & Practices
 - Git & GitHub
 - Version Control
 - Agile Methodologies (Scrum / Kanban)
-- UML & Requirements Analysis
+- UML, BPMN & Requirements Analysis
 
 ---
 
@@ -58,10 +50,8 @@ I am particularly interested in:
 ---
 
 ## 📫 Contact
-
-- LinkedIn: [https://www.linkedin.com/in/heloisacadenas/]
-- Email: [heloisacadenas36@gmail.com]
-- Behance: [https://www.behance.net/heloisacadenas]
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/heloisacadenas/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:heloisacadenas36@gmail.com)
 
 ---
 
