@@ -18,8 +18,6 @@ I am particularly interested in:
 - Agile development environments
 ---
 
-![Heloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisacadenas&theme=dark&show_icons=true)
-
 ## 🎓 Education
 
 - Bachelor's degree in Software Engineering - Uninter (2026-2029)
