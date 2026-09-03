@@ -14,7 +14,6 @@ I am particularly interested in:
 - Full Stack Development
 - Frontend Development
 - Software Architecture
-- Systems and Data-driven applications
 - Agile development environments
 ---
 
